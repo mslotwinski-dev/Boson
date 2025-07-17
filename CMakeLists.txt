@@ -8,6 +8,8 @@ set(CMAKE_C_STANDARD_REQUIRED True)
 include_directories(src)
 
 file(GLOB_RECURSE SOURCES
+    src/core/*.c
+    src/modules/*.c
     src/*.c
     main.c
 )

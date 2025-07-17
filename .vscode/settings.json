@@ -16,9 +16,9 @@
     "files.autoSaveDelay": 1000,
     
     "files.associations": {
+        "*.html": "html",
         "*.ejs": "html",
         ".fantomasignore": "ignore",
-        "*.html": "html",
         "array": "cpp",
         "atomic": "cpp",
         "bit": "cpp",
@@ -86,7 +86,8 @@
         "thread": "cpp",
         "cinttypes": "cpp",
         "typeinfo": "cpp",
-        "variant": "cpp"
+        "variant": "cpp",
+        "app.h": "c"
     },
 
     "emeraldwalk.runonsave": {
