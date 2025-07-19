@@ -87,7 +87,8 @@
         "cinttypes": "cpp",
         "typeinfo": "cpp",
         "variant": "cpp",
-        "app.h": "c"
+        "app.h": "c",
+        "forest.h": "c"
     },
 
     "emeraldwalk.runonsave": {
